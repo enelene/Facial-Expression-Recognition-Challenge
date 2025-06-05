@@ -9,7 +9,7 @@
 https://api.wandb.ai/links/egabe21-free-university-of-tbilisi-/7deagbol
 -----
 
-## ექსპერიმენტებები 
+## ექსპერიმენტები 
 
 ### იტერაცია 1: საბაზისო მოდელი - `SimpleCNN_Baseline`
 
