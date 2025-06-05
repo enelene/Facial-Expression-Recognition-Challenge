@@ -3,7 +3,7 @@
 მოცემული რეპოზიტორია ასახავს Convolutional Neural Network (CNN) მოდელების შექმნისა და შეფასების პროცესს Kaggle-ის competition-ისთვის "Challenges in Representation Learning: Facial Expression Recognition Challenge". 
 
 **სამუშაო გარემო:** Google Colab (GPU-თი)
-**მონაცემთა ნაკრები:** FER2013 (`icml_face_data.csv`-დან, დაყოფილია Training, PublicTest და PrivateTest ნაწილებად)
+**Data:** FER2013 (`icml_face_data.csv`-დან, დაყოფილია Training, PublicTest და PrivateTest ნაწილებად)
 **ძირითადი ბიბლიოთეკები:** PyTorch, Weights & Biases, Pandas, NumPy
 **wandb link** : (https://wandb.ai/egabe21-free-university-of-tbilisi-/facial-expression-recognition-challenge)
 https://api.wandb.ai/links/egabe21-free-university-of-tbilisi-/7deagbol
